@@ -1,0 +1,23 @@
+/* Make the output full screen */
+body {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: #282c34;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+  }
+  
+  /* Increase text size */
+  h1 {
+    font-size: 60px; /* Bigger output */
+  }
+  
+  p {
+    font-size: 24px;
+  }
+  
